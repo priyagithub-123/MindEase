@@ -24,12 +24,6 @@ MindEase provides:
 
 ---
 
-## 🚀 Demo 
-📹 [Loom walkthrough link]  
-💻 [GitHub Repo](#)
-
----
-
 ## 📫 Contact
 Made with ❤️ for GDG by Priyadharshini
 
